@@ -1,1 +1,1 @@
-# project-3-udacity
+# Analyzing Bay Area Bike Share Project
